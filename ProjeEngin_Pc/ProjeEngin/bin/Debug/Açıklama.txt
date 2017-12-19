@@ -1,0 +1,3 @@
+veriS sýcaklýk veritabaný
+veriM mesafe veritabaný
+veriN kullanýlmýyor baþta nem olarak kullanýlacaktý iptal oldu
